@@ -7,3 +7,5 @@ Java is a set of computer software and specifications that provides a system for
 [List of JVM languages - Wikipedia](https://en.wikipedia.org/wiki/List_of_JVM_languages)
 
 ### [Java](Languages/Java/README.md)
+- [Types](Languages/Java/Types/README.md)
+  - [String](Languages/Java/Types/String.md)

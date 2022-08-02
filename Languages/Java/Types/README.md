@@ -1,0 +1,2 @@
+# Types
+- [String](String.md)
